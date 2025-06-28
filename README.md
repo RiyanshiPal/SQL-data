@@ -89,7 +89,7 @@ titles, from Data Analyst to Director of Analytics
 reflecting varied roles and specializations within data
 analytics
 
-![Top paying roles](assests\1_top_paying_roles.png)
+![Top paying roles](assests/1_top_paying_roles.png)
 
 *AI generated graph from my SQL query results*
 ### 2) Skills for Top Paying Jobs
@@ -130,7 +130,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
 
-![Top Paying Skills](assests\2_top_paying_roles_skills.png)
+![Top Paying Skills](assests/2_top_paying_roles_skills.png)
 *AI generated graph from my SQL query results*
 ### 3. In-Demand Skills for Data Analysts
 
@@ -258,7 +258,8 @@ I completed this project while following along with Luke Barousse's YouTube vide
 
 Everything I’ve written in the analysis section reflects the insights I gained from Luke’s tutorials. I watched the entire video from start to finish, absorbing each concept, writing the queries myself, and revisiting key sections whenever I felt stuck. His teaching style made learning intuitive and genuinely enjoyable.
 
-To stay active and engaged while learning, I also took [Rough Handwritten Notes](assests\Notes_sql_data_analysis.pdf)
+To stay active and engaged while learning, I also took [Rough Handwritten Notes](assets/Notes_sql_data_analysis.pdf)
+
  on my Samsung Galaxy Tab S9 FE+. These notes helped me revise quickly and revisit concepts whenever I felt lost. They stand as proof of my commitment to learning and my effort to follow through the full tutorial attentively.
 
 ### What I Learned
