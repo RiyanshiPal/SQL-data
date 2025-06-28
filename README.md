@@ -18,7 +18,7 @@ In my first year, I took a course on Energy Engineering where we explored trends
 
 Later, in my Programming for Data Science course, this idea became even clearer. I saw how data can answer critical questions and uncover deep trends. I knew I wanted to work with data, but I wasn’t sure where to begin. The job market felt overwhelming, with so many overlapping roles and skill requirements.
 
-While searching for a direction, I came across Luke Barousse. His content gave me the clarity I needed. I learned how to write efficient SQL queries and began analyzing real-world job market data.
+While searching for a direction, I came across [Luke Barousse](www.lukebarousse.com). His content gave me the clarity I needed. I learned how to write efficient SQL queries and began analyzing real-world job market data.
 
 This project is a result of that journey—exploring top-paying data analyst roles, identifying in-demand skills, and helping others understand what to learn and how to navigate the data job market with confidence.
 
@@ -254,19 +254,24 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
 # What I Learned
-I completed this project while following along with Luke Barousse's YouTube video on SQL. His guidance helped me shape the way I approach problems, understand the significance of query results, and most importantly—what questions to ask.
+I completed this project while following along with Luke Barousse's YouTube video on SQL. His guidance completely reshaped how I approach data problems—helping me understand not just how to write SQL, but why each query matters. His content taught me to focus on the significance of query results and, most importantly, to ask the right questions.
 
-Everything I’ve written in the analysis section reflects his teachings. I watched his video, absorbed the concepts, wrote the queries myself, and with his help, truly understood the why behind the results. I give full credit for the analytical approach in this project to Luke.
+Everything I’ve written in the analysis section reflects the insights I gained from Luke’s tutorials. I watched the entire video from start to finish, absorbing each concept, writing the queries myself, and revisiting key sections whenever I felt stuck. His teaching style made learning intuitive and genuinely enjoyable.
 
-**What I Learned:**
-Throughout this journey, I significantly upgraded my SQL skills, diving into advanced topics and gaining confidence in real-world applications:
+To stay active and engaged while learning, I also took [Rough Handwritten Notes](assests\Notes_sql_data_analysis.pdf)
+ on my Samsung Galaxy Tab S9 FE+. These notes helped me revise quickly and revisit concepts whenever I felt lost. They stand as proof of my commitment to learning and my effort to follow through the full tutorial attentively.
 
-**Complex Query Crafting:** Mastered the art of writing advanced SQL queries—joining tables seamlessly and using WITH clauses (CTEs) for temporary, modular query structures.
+### What I Learned
+This journey helped me level up my SQL skills with practical, real-world applications. Here's what I gained:
 
-📊 **Data Aggregation:** Used GROUP BY like a pro and turned aggregate functions like COUNT() and AVG() into powerful data summarization tools.
+**Complex Query Crafting:** 
+Learned to write advanced SQL queries by seamlessly joining multiple tables and using WITH clauses (CTEs) for modular, reusable queries.
 
-**Analytical Thinking:** Sharpened my ability to frame real-world problems as SQL questions and derive meaningful, actionable insights from raw data.
+**Data Aggregation:** 
+Gained proficiency with GROUP BY, turning COUNT(), AVG(), and other aggregate functions into tools for summarizing and analyzing data effectively.
 
+**Analytical Thinking:**
+Developed the ability to break down real-world questions into data problems—and derive insights that are both actionable and meaningful.
 
 # Conclusions
 ### Insights
