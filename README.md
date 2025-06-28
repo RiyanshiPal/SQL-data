@@ -18,7 +18,7 @@ In my first year, I took a course on Energy Engineering where we explored trends
 
 Later, in my Programming for Data Science course, this idea became even clearer. I saw how data can answer critical questions and uncover deep trends. I knew I wanted to work with data, but I wasn’t sure where to begin. The job market felt overwhelming, with so many overlapping roles and skill requirements.
 
-While searching for a direction, I came across [Luke Barousse](www.lukebarousse.com). His content gave me the clarity I needed. I learned how to write efficient SQL queries and began analyzing real-world job market data.
+While searching for a direction, I came across [Luke Barousse](https://www.lukebarousse.com). His content gave me the clarity I needed. I learned how to write efficient SQL queries and began analyzing real-world job market data.
 
 This project is a result of that journey—exploring top-paying data analyst roles, identifying in-demand skills, and helping others understand what to learn and how to navigate the data job market with confidence.
 
@@ -258,7 +258,7 @@ I completed this project while following along with Luke Barousse's YouTube vide
 
 Everything I’ve written in the analysis section reflects the insights I gained from Luke’s tutorials. I watched the entire video from start to finish, absorbing each concept, writing the queries myself, and revisiting key sections whenever I felt stuck. His teaching style made learning intuitive and genuinely enjoyable.
 
-To stay active and engaged while learning, I also took [Rough Handwritten Notes](assets/Notes_sql_data_analysis.pdf)
+To stay active and engaged while learning, I also took [Rough Handwritten Notes](assests/Notes_sql_data_analysis.pdf)
 
  on my Samsung Galaxy Tab S9 FE+. These notes helped me revise quickly and revisit concepts whenever I felt lost. They stand as proof of my commitment to learning and my effort to follow through the full tutorial attentively.
 
@@ -291,4 +291,4 @@ Luke is a data analyst, YouTuber, and engineer who helps data enthusiasts level 
 
 His content not only taught me how to write SQL queries, but more importantly, how to think like an analyst—asking the right questions and interpreting results meaningfully.
 
-Check out his work here: [www.lukebarousse.com](www.lukebarousse.com)
+Check out his work here: [www.lukebarousse.com](https://www.lukebarousse.com)
